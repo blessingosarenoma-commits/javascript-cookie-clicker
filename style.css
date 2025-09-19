@@ -1,16 +1,16 @@
 .body {
   font-family: "Segoe UI", sans-serif;
-  background-color: blanchedalmond;
+  background-color: rgb(205, 208, 255);
   text-align: center;
   padding-top: 50px;
   margin: 0;
 }
 .h1 {
   font-size: 3rem;
-  color: #8b4513;
+  color: #102603;
 }
 .cookie {
-  background-color: darkorange;
+  background-color: rgb(0, 68, 255);
   justify-content: center;
   display: flex;
   align-items: center;
@@ -22,7 +22,7 @@
   margin: 20px auto;
   cursor: pointer;
   transition: transform 0.1s;
-  border: 5px solid #8b4513;
+  border: 5px solid #690c37;
 }
 .cookie {
   transform: scale(0.95);
@@ -30,7 +30,7 @@
 .cookie-count {
   font-size: 4rem;
   margin-top: 20px 0;
-  color: crimson;
+  color: rgb(191, 27, 136);
 }
 .cookie:hover {
   transform: scale(1.1);
